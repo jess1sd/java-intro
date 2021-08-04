@@ -1,3 +1,4 @@
+package com.shallwelearn;
 import java.util.Scanner;
 
 public class InputReader {

@@ -1,3 +1,5 @@
+package com.shallwelearn;
+
 public class BinaryCalculator {
     
     public int andVals(int a, int b) {

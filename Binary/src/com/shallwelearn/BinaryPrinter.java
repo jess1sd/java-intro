@@ -1,3 +1,4 @@
+package com.shallwelearn;
 public class BinaryPrinter {
 
     public String convertIntegerToBinary(int n) {
